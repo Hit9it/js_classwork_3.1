@@ -1,0 +1,14 @@
+.product-card{
+    width: 400px;
+
+}
+.product-title{
+    width: 400px;
+    background: #722323;
+    color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+}
+.product-image{
+    height: 400px;
+}
